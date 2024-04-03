@@ -1,0 +1,12 @@
+C:\Users\yazan\OneDrive\سطح المكتب\QGIS\C#\NavSpatialDataSync\NavSpatialDataWorker.DL\bin\Debug\net7.0\NavSpatialDataWorker.DL.deps.json
+C:\Users\yazan\OneDrive\سطح المكتب\QGIS\C#\NavSpatialDataSync\NavSpatialDataWorker.DL\bin\Debug\net7.0\NavSpatialDataWorker.DL.dll
+C:\Users\yazan\OneDrive\سطح المكتب\QGIS\C#\NavSpatialDataSync\NavSpatialDataWorker.DL\bin\Debug\net7.0\NavSpatialDataWorker.DL.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\QGIS\C#\NavSpatialDataSync\NavSpatialDataWorker.DL\obj\Debug\net7.0\NavSpatialDataWorker.DL.csproj.AssemblyReference.cache
+C:\Users\yazan\OneDrive\سطح المكتب\QGIS\C#\NavSpatialDataSync\NavSpatialDataWorker.DL\obj\Debug\net7.0\NavSpatialDataWorker.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazan\OneDrive\سطح المكتب\QGIS\C#\NavSpatialDataSync\NavSpatialDataWorker.DL\obj\Debug\net7.0\NavSpatialDataWorker.DL.AssemblyInfoInputs.cache
+C:\Users\yazan\OneDrive\سطح المكتب\QGIS\C#\NavSpatialDataSync\NavSpatialDataWorker.DL\obj\Debug\net7.0\NavSpatialDataWorker.DL.AssemblyInfo.cs
+C:\Users\yazan\OneDrive\سطح المكتب\QGIS\C#\NavSpatialDataSync\NavSpatialDataWorker.DL\obj\Debug\net7.0\NavSpatialDataWorker.DL.csproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\سطح المكتب\QGIS\C#\NavSpatialDataSync\NavSpatialDataWorker.DL\obj\Debug\net7.0\NavSpatialDataWorker.DL.dll
+C:\Users\yazan\OneDrive\سطح المكتب\QGIS\C#\NavSpatialDataSync\NavSpatialDataWorker.DL\obj\Debug\net7.0\refint\NavSpatialDataWorker.DL.dll
+C:\Users\yazan\OneDrive\سطح المكتب\QGIS\C#\NavSpatialDataSync\NavSpatialDataWorker.DL\obj\Debug\net7.0\NavSpatialDataWorker.DL.pdb
+C:\Users\yazan\OneDrive\سطح المكتب\QGIS\C#\NavSpatialDataSync\NavSpatialDataWorker.DL\obj\Debug\net7.0\ref\NavSpatialDataWorker.DL.dll
